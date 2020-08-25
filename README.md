@@ -65,6 +65,9 @@ __5. Can change [deep_sort_yolov3/yolo.py] `__Line 100__` to your tracking objec
 
 [cosine_metric_learning](https://github.com/nwojke/cosine_metric_learning) for training a metric feature representation to be used with the deep_sort tracker.
 
+## Sample Video
+https://www.youtube.com/watch?v=1ctbdx-moyM&feature=youtu.be
+
 ## Citation
 
 ### YOLOv3 :
