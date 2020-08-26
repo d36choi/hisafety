@@ -1,6 +1,6 @@
 # YOLOv3 + Deep_SORT Vehicle Velocity Estimation
 
-* __demo Video__: https://www.youtube.com/watch?v=1ctbdx-moyM&feature=youtu.be
+* __demo Video__: https://youtu.be/Dn9S8p49dqE
 
 
 # YOLOv3 + Deep_SORT
