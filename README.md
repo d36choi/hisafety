@@ -1,11 +1,9 @@
+# YOLOv3 + Deep_SORT Vehicle Velocity Estimation
+
+* __demo Video__: https://www.youtube.com/watch?v=1ctbdx-moyM&feature=youtu.be
+
+
 # YOLOv3 + Deep_SORT
-
-<img src="https://github.com/yehengchen/video_demo/blob/master/video_demo/output.gif" width="40%" height="40%"> <img src="https://github.com/yehengchen/video_demo/blob/master/video_demo/TownCentreXVID_output.gif" width="40%" height="40%">
-<img src="https://github.com/yehengchen/Object-Detection-and-Tracking/blob/master/OneStage/yolo/yolo_img/output_person_315_1120_s.gif" width="40%" height="40%"> <img src="https://github.com/yehengchen/video_demo/blob/master/video_demo/output_car_143.gif" width="40%" height="40%">
-
-__Object Tracking & Counting Demo - [[YouTube]](https://www.youtube.com/watch?v=ALw3OfrGWGo) [[BiliBili_V1]](https://www.bilibili.com/video/av55778717) [[BiliBili_V2]](https://www.bilibili.com/video/av59547404)  [[Chinese Version]](https://blog.csdn.net/weixin_38107271/article/details/96741706)__
-## Requirement
-__Development Environment: [Deep-Learning-Environment-Setup](https://github.com/yehengchen/Ubuntu-16.04-Deep-Learning-Environment-Setup)__ 
 
 * OpenCV
 * sklean
@@ -20,8 +18,6 @@ It uses:
 * __Detection__: [YOLOv3](https://github.com/yehengchen/ObjectDetection/tree/master/OneStage/yolo/yolov3) to detect objects on each of the video frames. - 用自己的数据训练YOLOv3模型
 
 * __Tracking__: [Deep_SORT](https://github.com/nwojke/deep_sort) to track those objects over different frames.
-
-*This repository contains code for Simple Online and Realtime Tracking with a Deep Association Metric (Deep SORT). We extend the original SORT algorithm to integrate appearance information based on a deep appearance descriptor. See the [arXiv preprint](https://arxiv.org/abs/1703.07402) for more information.*
 
 ## Quick Start
 
@@ -65,8 +61,6 @@ __5. Can change [deep_sort_yolov3/yolo.py] `__Line 100__` to your tracking objec
 
 [cosine_metric_learning](https://github.com/nwojke/cosine_metric_learning) for training a metric feature representation to be used with the deep_sort tracker.
 
-## Sample Video
-https://www.youtube.com/watch?v=1ctbdx-moyM&feature=youtu.be
 
 ## Citation
 
