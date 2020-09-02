@@ -1,2 +1,4 @@
 model_data/*
-
+__pycache__
+.DS_Store
+venv
