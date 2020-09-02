@@ -1,7 +1,10 @@
 # YOLOv3 + Deep_SORT Vehicle Velocity Estimation
 
+![grab-landing_page](https://github.com/d36choi/hisafety/blob/master/Velocity_tracker_(two_roads).gif)
+
 * __demo Video__: https://youtu.be/Dn9S8p49dqE
 
+## dependencies
 * OpenCV
 * sklean
 * pillow
@@ -79,6 +82,6 @@ $ python main.py -c person -i ./test_video/testvideo.avi
 ## Reference
 #### Github:deep_sort@[Nicolai Wojke nwojke](https://github.com/nwojke/deep_sort)
 #### Github:deep_sort_yolov3@[Qidian213 ](https://github.com/Qidian213/deep_sort_yolov3)
-
+#### Github:Object-Detection-and-Tracking@[yehengchen](https://github.com/yehengchen/Object-Detection-and-Tracking)
 
 
