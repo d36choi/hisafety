@@ -4,6 +4,13 @@
 
 * __demo Video__: https://youtu.be/Dn9S8p49dqE
 
+## team member
+:runner: Choi sanghyun
+:runner: Kim sungjo
+:runner: Park meenhee
+
+
+
 ## dependencies
 * OpenCV
 * sklean
