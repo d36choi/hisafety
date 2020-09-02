@@ -1,4 +1,4 @@
-# YOLOv3 + Deep_SORT Vehicle Velocity Estimation
+# YOLOv3 + Deep_SORT Vehicle Speed Estimation Tracker
 
 ![grab-landing_page](https://github.com/d36choi/hisafety/blob/master/Velocity_tracker_(two_roads).gif)
 
