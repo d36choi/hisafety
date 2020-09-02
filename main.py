@@ -136,7 +136,7 @@ def main(yolo):
             #----------start frame for measuring speed--------------
             # track.track_id : each tracking id // pts[track.track_id] : each id's center point
             ############################
-            velocity_tracker.point_check(fps,number_of_frame_in_video,track.track_id,center,frame,bbox)
+            velocity_tracker.entering_check(fps, number_of_frame_in_video, track.track_id, center, frame, bbox)
             # print(number_of_frame_in_video,track.track_id)
 
             ############################
